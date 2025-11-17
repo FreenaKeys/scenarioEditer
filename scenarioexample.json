@@ -1,0 +1,22 @@
+{
+    "meta":{
+        "name":"test",
+        "uniqueid":"com.example.test",
+        "requiredver":"0.1.0"
+    },
+
+    "entries":{
+        "1":
+            {
+                "text":"これはダミーです",
+                "rubi":"korehadami-desu",
+                "level":"basic"
+            },
+        "2":
+            {
+                "text":"これはテストテキストです",
+                "rubi":"korehatesutotekisuto-desu",
+                "level":"basic"
+            }
+    }
+}
